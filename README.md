@@ -4,11 +4,20 @@ Some universal, commonly used components, built in React for some programming pr
 
 Components to build include:
 
-[x] A dropdown component
-[ ] Accordion
-[ ] A star rating component
-[ ] A tab component
-[ ] Carousel?
+[x] A dropdown component  
+[ ] Accordion  
+[x] A star rating component  
+[ ] A tab component  
+[ ] Carousel?  
+[ ] Button group  
+[ ] Modal  
+[ ] Autocomplete?
+[ ] https://getbootstrap.com/docs/5.3/components/offcanvas/  
+[ ] Pagination? - idk  
+[ ] CascadeSelect - skomplikowane  
+[ ] Chips - https://primevue.org/chips/ - skomplikowane  
+[ ] Switch  
+[ ] Slider?  
 
 etc
 
