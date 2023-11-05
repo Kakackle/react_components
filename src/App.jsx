@@ -4,6 +4,7 @@ import Dropdown from './components/Dropdown'
 import StarRating from './components/StarRating';
 import Accordion from './components/Accordion';
 import Carousel from './components/Carousel';
+import Modal from './components/Modal';
 const dropdown_items = ['Links', 'Account', 'Something', 'Else'];
 const accordion_items = [
   {
@@ -37,6 +38,7 @@ function App() {
     <StarRating></StarRating>
     <Accordion width={300} items={accordion_items}></Accordion>
     <Carousel width={300} height={200} items={caoursel_items}></Carousel>
+    {/* <Modal></Modal> */}
     </>
   )
 }

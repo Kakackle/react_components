@@ -8,9 +8,9 @@ Components to build include:
 [x] Accordion  
 [x] A star rating component  
 [ ] A tab component  
-[ ] Carousel?  
+[x] Carousel 
 [ ] Button group  
-[ ] Modal  
+[x] Modal  
 [ ] Autocomplete?
 [ ] https://getbootstrap.com/docs/5.3/components/offcanvas/  
 [ ] Pagination? - idk  
