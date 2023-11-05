@@ -5,7 +5,7 @@ Some universal, commonly used components, built in React for some programming pr
 Components to build include:
 
 [x] A dropdown component  
-[ ] Accordion  
+[x] Accordion  
 [x] A star rating component  
 [ ] A tab component  
 [ ] Carousel?  
